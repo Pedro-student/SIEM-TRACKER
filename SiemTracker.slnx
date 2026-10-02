@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SiemTracker.API/SiemTracker.API.csproj" />
+  <Project Path="SiemTracker.Application/SiemTracker.Application.csproj" />
+  <Project Path="SiemTracker.Domain/SiemTracker.Domain.csproj" />
+  <Project Path="SiemTracker.Infrastructure/SiemTracker.Infrastructure.csproj" />
+</Solution>
