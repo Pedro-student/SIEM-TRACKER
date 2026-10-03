@@ -1,4 +1,4 @@
-﻿namespace SiemTracker.Domain;
+﻿namespace SiemTracker.Domain.Entities;
 
 public class LogEvent
 {

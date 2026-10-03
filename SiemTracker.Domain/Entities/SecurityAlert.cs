@@ -1,5 +1,5 @@
-namespace SiemTracker.Domain;
-class SecurityAlert
+namespace SiemTracker.Domain.Entities;
+public class SecurityAlert
 {
     Guid Id {get;set;} = Guid.NewGuid();
     public string Title {get;set;} = string.Empty;
